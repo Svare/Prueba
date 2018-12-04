@@ -4,9 +4,9 @@
 int main(int argc, char const *argv[]){
 
 	printf("hola mundo\n");
-	printf("jajaja xd\n");
-	printf(" >:v \n");
-	printf("8=====D\n");
+	printf("ya lo moddifique\n");
+	printf(" :v \n");
+	printf("<}:{v\n");
 	
 	return 0;
 }
